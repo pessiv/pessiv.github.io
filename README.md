@@ -21,6 +21,7 @@ All can be found on my alternative <a href="https://github.com/vohvelikissa">git
 - Finnish Game Jam 2025
 - ASM Game Jam 24
 - Pride Game Jam Helsinki 24
+- ULTRAHACK 2018 Sprint 2 Hack the Index
 - Finnish Game Jam 2016
 - GadgetJam
 
