@@ -13,3 +13,5 @@ optimistic about getting a job in this field in any way shape or form at all wha
 # Hot Takes
 
 - Things should be improved somewhat.
+
+<img src="./pinkku.png">
