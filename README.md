@@ -7,6 +7,12 @@ optimistic about getting a job in this field in any way shape or form at all wha
 
 # Projects
 
+## Web Projects
+
+### My portfolio
+
+You're on it.
+
 ## Terminal Projects
 
 - DeepSeek-R1 powered agent kind of thing with a load balancer kind of thing to make it so that I can run some kind of operation on my laptop
