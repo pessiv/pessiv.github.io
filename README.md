@@ -5,7 +5,6 @@ getting to do some programming in a professional setting. I'm also a Software En
 by education, but because the job market at the moment is just horrible I am not very
 optimistic about getting a job in this field in any way shape or form at all whatsoever.
 
-
 # Projects
 
 ## Terminal Projects
@@ -16,6 +15,16 @@ optimistic about getting a job in this field in any way shape or form at all wha
 - and more
 
 All can be found on my alternative <a href="https://github.com/vohvelikissa">github account</a>
+
+## Jams That I have Attended
+
+- Finnish Game Jam 2025
+- ASM Game Jam 24
+- Pride Game Jam Helsinki 24
+- Finnish Game Jam 2016
+- GadgetJam
+
+Most of my Jam content is scattered around the interwebs and is thus hard to find. I am willing to make an attempt if you the reader want to see something specific though.
 
 # YouTube Videos
 
