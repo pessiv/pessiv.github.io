@@ -17,3 +17,5 @@ optimistic about getting a job in this field in any way shape or form at all wha
 # Gallery
 
 <img src="./pinkku.png">
+
+More images can be found by checking out my <a href="https://www.deviantart.com/pingviinimies">deviant art</a>
