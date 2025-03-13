@@ -19,6 +19,7 @@ All can be found on my alternative <a href="https://github.com/vohvelikissa">git
 ## Jams That I have Attended
 
 - Finnish Game Jam 2025
+<img src="./promo.png" width="400" height="400">
 - ASM Game Jam 24
 - Pride Game Jam Helsinki 24
 - ULTRAHACK 2018 Sprint 2 Hack the Index
