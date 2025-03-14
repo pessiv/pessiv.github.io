@@ -9,6 +9,8 @@ optimistic about getting a job in this field in any way shape or form at all wha
 
 ## Relevant Skills
 
+<div style="display: none;">
+
 ### NodeJS
 
 ### JavaScript
@@ -32,6 +34,8 @@ optimistic about getting a job in this field in any way shape or form at all wha
 ### Ollama
 
 ### Python
+
+</div>
 
 # Projects
 
