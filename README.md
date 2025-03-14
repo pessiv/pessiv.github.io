@@ -12,6 +12,7 @@ optimistic about getting a job in this field in any way shape or form at all wha
 ### My portfolio
 
 - Description: What, you're on my portfolio and still need a description of it?
+- Tech used: Github Pages and Markdown with HTML snippets
 - Completion percentage: N/A
 - Link: <a href="https://pessiv.github.io">click here</a>
 
