@@ -33,6 +33,8 @@ All can be found on my alternative <a href="https://github.com/vohvelikissa">git
 
 At first I tried to make something with AI, but ended up making things myself with Lua.
 
+<img src="./bf.png" width="400" height="auto">
+
 ### ASM Game Jam 24
 
 This was also my first ever time in the bigger Assembly Summer event so you know I had fun.
