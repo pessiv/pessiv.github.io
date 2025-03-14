@@ -35,6 +35,10 @@ Most of my Jam content is scattered around the interwebs and is thus hard to fin
 
 # YouTube Videos
 
+## Finnish Game Jam 2016 Demo video
+
+I got to make this video working alongside some extremely amazing people and I wish still to this day that I could do it again.
+
 <iframe width="400" height="400" src="https://www.youtube.com/embed/keNmhdiXWnw?si=tR7cZpdD4f_kN3G1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 You can find the rest of my videos on <a href="https://youtube.com/@vilppes">my youtube channel.</a>
