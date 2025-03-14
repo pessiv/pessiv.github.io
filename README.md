@@ -43,6 +43,12 @@ This was also my first ever time in the bigger Assembly Summer event so you know
 
 This was the very first year I did Pride anything.
 
+### Game Dev Club Jam 24
+
+I forgor the real name for this one :/
+
+<img src="./bcdonalds.jpg" width="400" height="auto">
+
 ### ULTRAHACK 2018 Sprint 2 Hack the Index
 
 I got to meet some amazing people here. I hope all the best for all of them.
