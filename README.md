@@ -15,6 +15,7 @@ optimistic about getting a job in this field in any way shape or form at all wha
 - Tech used: Github Pages and Markdown with HTML snippets
 - Completion percentage: N/A
 - Link: <a href="https://pessiv.github.io">click here</a>
+- Git repo: <a href="https://github.com/pessiv/pessiv.github.io">click here</a>
 
 <img src="./portfolio-screenshot.png" width="400" height="auto">
 
