@@ -90,3 +90,9 @@ You can find the rest of my videos on <a href="https://youtube.com/@vilppes">my 
 <img src="./pinkku.png">
 
 More images can be found by checking out my <a href="https://www.deviantart.com/pingviinimies">deviant art</a>
+
+# Socials
+
+- Discord: pannukissa
+- Instagram: vilppes
+- Email: pessiv@outlook.com
