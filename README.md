@@ -31,6 +31,8 @@ All can be found on my alternative <a href="https://github.com/vohvelikissa">git
 
 ### Finnish Game Jam 2025
 
+At first I tried to make something with AI, but ended up making things myself with Lua.
+
 ### ASM Game Jam 24
 
 This was also my first ever time in the bigger Assembly Summer event so you know I had fun.
@@ -42,6 +44,10 @@ This was also my first ever time in the bigger Assembly Summer event so you know
 ### Finnish Game Jam 2016
 
 ### GadgetJam
+
+I just mostly had fun with this one jam.
+
+<img src="./gadgetjam.jpg" width="400" height="auto">
 
 Most of my Jam content is scattered around the interwebs and is thus hard to find. I am willing to make an attempt if you the reader want to see something specific though.
 
