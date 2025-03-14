@@ -11,7 +11,9 @@ optimistic about getting a job in this field in any way shape or form at all wha
 
 ### My portfolio
 
-You're on it.
+- Description: What, you're on my portfolio and still need a description of it?
+- Completion percentage: N/A
+- Link: <a href="https://pessiv.github.io">click here</a>
 
 ## Terminal Projects
 
