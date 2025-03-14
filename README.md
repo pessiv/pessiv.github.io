@@ -43,6 +43,10 @@ This was also my first ever time in the bigger Assembly Summer event so you know
 
 ### ULTRAHACK 2018 Sprint 2 Hack the Index
 
+I got to meet some amazing people here. I hope all the best for all of them.
+
+<img src="./ultrahack2018.jpg" width="400" height="auto">
+
 ### Finnish Game Jam 2016
 
 ### GadgetJam
