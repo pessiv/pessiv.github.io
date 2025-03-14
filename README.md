@@ -29,12 +29,19 @@ All can be found on my alternative <a href="https://github.com/vohvelikissa">git
 
 ## Jams That I have Attended
 
-- Finnish Game Jam 2025
-- ASM Game Jam 24
-- Pride Game Jam Helsinki 24
-- ULTRAHACK 2018 Sprint 2 Hack the Index
-- Finnish Game Jam 2016
-- GadgetJam
+### Finnish Game Jam 2025
+
+### ASM Game Jam 24
+
+This was also my first ever time in the bigger Assembly Summer event so you know I had fun.
+
+### Pride Game Jam Helsinki 24
+
+### ULTRAHACK 2018 Sprint 2 Hack the Index
+
+### Finnish Game Jam 2016
+
+### GadgetJam
 
 Most of my Jam content is scattered around the interwebs and is thus hard to find. I am willing to make an attempt if you the reader want to see something specific though.
 
