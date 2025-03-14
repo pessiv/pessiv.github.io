@@ -9,7 +9,7 @@ optimistic about getting a job in this field in any way shape or form at all wha
 
 ## Relevant Skills
 
-NodeJS, JavaScript, TypeScript, Vue, React, Git, C/C++, Linux, Bash, OpenAI API, Ollama, Python
+Java, C#, NodeJS, JavaScript, TypeScript, Vue, React, Git, C/C++, Linux, Bash, OpenAI API, Ollama, Python
 
 # Projects
 
