@@ -15,6 +15,8 @@ optimistic about getting a job in this field in any way shape or form at all wha
 - Completion percentage: N/A
 - Link: <a href="https://pessiv.github.io">click here</a>
 
+<img src="./portfolio-screenshot.png" width="400" height="auto">
+
 ## Terminal Projects
 
 - DeepSeek-R1 powered agent kind of thing with a load balancer kind of thing to make it so that I can run some kind of operation on my laptop
