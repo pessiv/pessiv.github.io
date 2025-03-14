@@ -39,6 +39,10 @@ At first I tried to make something with AI, but ended up making things myself wi
 
 This was also my first ever time in the bigger Assembly Summer event so you know I had fun.
 
+<img src="./dontgame.png" width="400" height="auto">
+
+My game was left in a very unfinished state because it was just that exciting to be in Assembly Summers for the first time ever.
+
 ### Pride Game Jam Helsinki 24
 
 This was the very first year I did Pride anything.
