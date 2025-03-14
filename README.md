@@ -9,7 +9,7 @@ optimistic about getting a job in this field in any way shape or form at all wha
 
 ## Relevant Skills
 
-<div style="display: none;">
+<div style="display: block;">
 
 ### NodeJS
 
