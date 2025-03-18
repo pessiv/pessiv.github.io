@@ -23,6 +23,10 @@ Why? You ask. Well, here is a few reasons:
 
 My rates are both competitive and negotiable and my contact info is on the bottom of this page
 
+# My Hustles
+
+Something will be added here as I cook.
+
 # Projects
 
 ## Web Projects
