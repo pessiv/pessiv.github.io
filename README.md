@@ -27,7 +27,7 @@ My rates are both competitive and negotiable and my contact info is on the botto
 
 ## Web Projects
 
-### My portfolio
+### My Portfolio
 
 - Description: What, you're on my portfolio and still need a description of it?
 - Tech used: Github Pages and Markdown with HTML snippets
