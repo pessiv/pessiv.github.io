@@ -35,9 +35,12 @@ Something will be added here as I cook.
 
 - Description: A component that plays that song from KAJ if it is infact thursday
 - Tech used: React
-- Completion percentage: 0
+- Completion percentage: 100
 - Link: TBA
 - Git repo: <a href="https://github.com/pessiv/bastu-aika-react-component">click here</a>
+- Future improvements: Make fancy
+
+<img src="./bastureact.png" width="400" height="auto">
 
 ### My Portfolio
 
