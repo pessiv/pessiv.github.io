@@ -11,6 +11,18 @@ optimistic about getting a job in this field in any way shape or form at all wha
 
 Java, C#, NodeJS, JavaScript, TypeScript, Vue, React, Git, C/C++, Linux, Bash, OpenAI API, Ollama, Python
 
+# Hire Me
+
+Why? You ask. Well, here is a few reasons:
+
+- I can unfuck your project
+- I can help you get started with AI
+- I can maintain your AI stack
+- I can make great solutions that work and produce results
+- I can make all of the above fast
+
+My rates are both competitive and negotiable and my contact info is on the bottom of this page
+
 # Projects
 
 ## Web Projects
