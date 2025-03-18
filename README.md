@@ -33,7 +33,11 @@ Something will be added here as I cook.
 
 ### Bastu Aika React Component
 
-- WIP
+- Description: A component that plays that song from KAJ if it is infact thursday
+- Tech used: React
+- Completion percentage: 0
+- Link: TBA
+- Git repo: <a href="https://github.com/pessiv/bastu-aika-react-component">click here</a>
 
 ### My Portfolio
 
