@@ -1,17 +1,3 @@
-# About
-
-## Summary
-
-I do software development.
-
-## Relevant Skills
-
-Java, C#, NodeJS, JavaScript, TypeScript, Vue, React, Git, C/C++, Linux, Bash, OpenAI API, Ollama, Python
-
-# My Hustles
-
-Something will be added here as I cook.
-
 # Projects
 
 ## Web Projects
