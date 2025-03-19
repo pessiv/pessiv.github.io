@@ -80,7 +80,7 @@ Most of my Jam content is scattered around the interwebs and is thus hard to fin
 
 # Socials
 
-- Mastodon: TBA
+- Mastodon: <a href="https://mastodon.social/@pessiv">@pessiv</a>
 <br>
 <br>
 <p style="text-align: center;">Pessi Vilppolahti (C) 2025 All Rights Reserved</p>
