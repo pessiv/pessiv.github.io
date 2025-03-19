@@ -127,9 +127,7 @@ More images can be found by checking out my <a href="https://www.deviantart.com/
 
 # Socials
 
-- Discord: pannukissa
-- Instagram: vilppes
-- Email: pessiv@outlook.com
+- Mastodon: TBA
 <br>
 <br>
 <p style="text-align: center;">Pessi Vilppolahti (C) 2025 All Rights Reserved</p>
