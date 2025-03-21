@@ -78,9 +78,6 @@ I just mostly had fun with this one jam.
 
 Most of my Jam content is scattered around the interwebs and is thus hard to find. I am willing to make an attempt if you the reader want to see something specific though.
 
-# Socials
-
-- Mastodon: <a href="https://mastodon.social/@pessiv">@pessiv</a>
 <br>
 <br>
 <p style="text-align: center;">Pessi Vilppolahti (C) 2025 All Rights Reserved</p>
