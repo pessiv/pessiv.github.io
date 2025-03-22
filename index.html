@@ -6,12 +6,14 @@
     </head>
     <body>
         <div id="opinions"></div>
+        <div id="warnings"></div>
         <hr>
         <p>Go check out my <a href="./oldfolio/0/">old stuff</a> while you wait for
         something to appear in this portion of this website.</p>
         <script src="./scripts/main.js"></script>
         <script>
-            jsonGetter("opinions.json", "opinions", opinionated)
+            jsonGetter("opinions.json")
+            jsonGetter("style.json")
         </script>
     </body>
 </html>

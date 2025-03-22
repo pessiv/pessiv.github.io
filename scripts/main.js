@@ -1,20 +1,21 @@
 console.info("main.js - Author: Pessi Vilppolahti")
-//start of opinions
 var opinionElement = document.getElementById("opinions");
 opinionElement.innerHTML += "<h1>Opinion:</h1>"
-function jsonGetter(filename, ename, cfunc) {
-    opinionElement = document.getElementById(ename)
+var currentJson = []
+function jsonGetter(filename) {
+    console.info("loading "+filename)
     fetch("https://pessiv.github.io/data/"+filename)
     .then(response => {
         return response.json()
     })
     .then(data => {
-        data.forEach(cfunc);
+        console.log(data)
+        currentJson.push(data)
+        console.log(currentJson)
     })
     .catch(e => {console.log(e)})
+    console.info("loaded"+filename)
 }
-function opinionated(opinion) {
-    opinionElement.innerHTML += "<h2>"+opinion.otitle+"</h2>";
-    opinionElement.innerHTML += "<p>"+opinion.omessage+"</p>" 
+function tagsWithStyle(tag,content) {
+
 }
-//end of opinions
