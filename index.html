@@ -4,8 +4,27 @@
         <title>?</title>
     </head>
     <body>
+        <div id="opinions">
+            <h1>Opinions:</h1>
+        </div>
         <hr>
         <p>Go check out my <a href="./oldfolio/0/">old stuff</a> while you wait for
         something to appear in this portion of this website.</p>
+        <script>
+            //start of opinions
+            var opinionElement = document.getElementById("opinions");
+            var opinions = [
+                {
+                    otitle: "Initial initial initial initial",
+                    omessage: "I think something like wordpress would be better for this but at the same time it feels like that would be an overkill"
+                }
+            ]
+            opinions.forEach(opinionated)
+            function opinionated(opinion) {
+                opinionElement.innerHTML += "<h2>"+opinion.otitle+"</h2>";
+                opinionElement.innerHTML += "<p>"+opinion.omessage+"</p>" 
+            }
+            //end of opinions
+        </script>
     </body>
 </html>
