@@ -1,6 +1,7 @@
 console.info("main.js - Author: Pessi Vilppolahti")
 //start of opinions
 var opinionElement = document.getElementById("opinions");
+opinionElement.innerHTML += "<h1>Opinion:</h1>"
 function jsonGetter(filename, ename, cfunc) {
     opinionElement = document.getElementById(ename)
     fetch("https://pessiv.github.io/data/"+filename)
