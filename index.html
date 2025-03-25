@@ -1,9 +1,97 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>?</title>
+        <title>My development things</title>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap" rel="stylesheet">
     </head>
-    <body>
-        <a href="https://pessiv.github.io/oldfolio/0">check out my old portfolio</a>
+    <body style="background-color: #ffd0d7;">
+        <style>
+            li, p, h1 {
+                font-family: "Pixelify Sans";
+                font-weight: 400;
+                font-style: normal;
+            }
+        </style>
+        <div style="display: flex; flex-wrap: wrap; color: black;">
+            <div style="margin-left: 25px; background-color: red; border-radius: 100px 10px 100px 100px; box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;">
+                <h1>Projects</h1>
+            </div>
+            <div style="margin-left: 25px; background-color: orange; border-radius: 10px 100px 10px 100px; box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;">
+                <h1>Blog</h1>
+            </div>
+            <div style="margin-left: 25px; background-color: yellow; border-radius: 100px 10px 42px 100px; box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;">
+                <h1>Youtube videos</h1>
+            </div>
+            <div style="margin-left: 25px; background-color: green; border-radius: 69px 420px 5px 100px; box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;">
+                <h1>My NFT Gallery</h1>
+            </div>
+            <div style="margin-left: 25px; background-color: blue; border-radius: 100px 10px 420px 69px; box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;">
+                <h1>My physical crafts</h1>
+            </div>
+            <div style="margin-left: 25px; background-color: purple; border-radius: 100px 10px 100px 100px; box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;">
+                <h1>My AI art</h1>
+            </div>
+            <div onclick="showPhotos()" style="margin-left: 25px; background-color: cyan; border-radius: 69px 420px 5px 100px; box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;">
+                <h1>Photos</h1>
+            </div>
+        </div>
+        <div id="photos" style="display: flex; flex-wrap: wrap; margin-left: 25px; row-gap: 13px; margin-top: 6px; display: none;">
+            <div style="margin-left: 25px; background-color: red; border-radius: 20px; box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;">
+                <p><img src="./oldfolio/0/gadgetjam.jpg" width="400" height="auto">
+                <br>Me at gadgetjam in 2013.</p>
+            </div>
+            <div style="margin-left: 25px; background-color: red; border-radius: 20px; box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;">
+                <p><img src="./oldfolio/0/ultrahack2018.jpg" width="400" height="auto">
+                <br>Me at ultrahack in 2018.</p>
+            </div>
+            <div style="margin-left: 25px; background-color: red; border-radius: 20px; box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;">
+                <p><img src="./oldfolio/0/pinkku.png" width="400" height="auto">
+                <br>My favorite Pinkku from my gallery.</p>
+            </div>
+            <div style="margin-left: 25px; background-color: red; border-radius: 20px; box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;">
+                <p><img src="./oldfolio/0/dontgame.png" width="400" height="auto">
+                <br>Proof that I infact did attend ASM game jam</p>
+            </div>
+            <div style="margin-left: 25px; background-color: red; border-radius: 20px; box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;">
+                <p><img src="./oldfolio/0/bcdonalds.jpg" width="400" height="auto">
+                <br>The main menu of a sandwich making game that I made</p>
+            </div>
+            <div style="margin-left: 25px; background-color: red; border-radius: 20px; box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;">
+                <p><img src="./oldfolio/0/bf.png" width="400" height="auto">
+                <br>A game that I made at the FGJ25</p>
+            </div>
+            <div style="margin-left: 25px; background-color: red; border-radius: 20px; box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;">
+                <p><img src="./oldfolio/0/bastureact.png" width="400" height="auto">
+                <br>A screenshot of a react component that I made</p>
+            </div>
+            <div style="margin-left: 25px; background-color: red; border-radius: 20px; box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;">
+                <p><img src="./oldfolio/0/portfolio-screenshot.png" width="400" height="auto">
+                <br>A screenshot of my old folio</p>
+            </div>
+        </div>
+        <div style="background-color: pink; border-radius: 69px; box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;">
+            <p style="text-align: center;">"You, the people have the power - the power to create machines. The power to create happiness! You, the people, have the power to make this life free and beautiful, to make this life a wonderful adventure."</p>
+            <p style="text-align: center;">
+                <a href="https://pessiv.github.io/oldfolio/0">check out my old portfolio</a>
+            </p>
+            <p style="text-align: center;">Pessi Vilppolahti (c) 2025</p>
+        </div>
+        <script>
+            const photogallery = document.getElementById("photos");
+            var photsVisible = 0;
+            function showPhotos() {
+                if(photsVisible == 0) {
+                    photogallery.style.display = "flex";
+                    photsVisible = 1;
+                } else {
+                    photogallery.style.display = "none";
+                    photsVisible = 0;
+                }
+            }
+        </script>
     </body>
 </html>
+
+
