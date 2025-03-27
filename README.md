@@ -4,6 +4,13 @@
 
 # TODO NEXT
 
+- Install react
+- Look up cool elements made by other people
+- Look up a tutorial for making a react site
+- Roughly design the site
+- Make the site
+- Look up hosting options for react
+
 # TODO EVENTUALLY
 
 # WRITINGS
