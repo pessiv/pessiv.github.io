@@ -1,5 +1,7 @@
 # TODO
 
+- [ ] Figure out how to make a website with react for Pinkku
+
 # TODO NEXT
 
 # TODO EVENTUALLY
