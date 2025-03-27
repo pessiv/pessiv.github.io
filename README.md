@@ -8,6 +8,8 @@
 
 # WRITINGS
 
+- <a href="./texts/001.md">Making of a website for Pinkku</a>
+
 # VIDEOS
 
 # GITHUB REPOSITORIES
