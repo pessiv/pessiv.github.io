@@ -1,7 +1,5 @@
 # TODO
 
-- Make the site
-
 # TODO NEXT
 
 - Installation: Creating a react app
