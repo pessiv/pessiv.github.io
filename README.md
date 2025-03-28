@@ -18,6 +18,7 @@
 - Look at figma
 - Look at DigitalOcean
 - Look at Vercel
+- Go read the react.dev reference
 
 # WRITINGS
 
