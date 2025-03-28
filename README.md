@@ -1,8 +1,5 @@
 # TODO
 
-
-# TODO NEXT
-
 - Install react using create-next-app
 - Design the react site
 - Make the thing
@@ -50,6 +47,8 @@
 - Deploy something
 - Look up the default react hooks
 - Look up react hooks libraries
+
+# TODO NEXT
 
 # WRITINGS
 
