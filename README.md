@@ -1,9 +1,5 @@
 # TODO
 
-- Figure out how to make a website with react for Pinkku
-
-# TODO NEXT
-
 - Install react
 - Look up cool elements made by other people
 - Look up a tutorial for making a react site
@@ -11,7 +7,11 @@
 - Make the site
 - Look up hosting options for react
 
-# TODO EVENTUALLY
+# TODO NEXT
+
+# TODO (VIDEO OF) EVENTUALLY
+
+- Figure out how to make a website with react for Pinkku
 
 # WRITINGS
 
