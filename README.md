@@ -1,6 +1,5 @@
 # TODO
 
-- Install react
 - Look up cool elements made by other people
 - Look up a tutorial for making a react site
 - Roughly design the site
@@ -9,9 +8,14 @@
 
 # TODO NEXT
 
+- Installation: Creating a react app
+- Installation: Build a react app from scratch
+- Installation: Add react to an existing project
+
 # TODO (VIDEO OF) EVENTUALLY
 
 - Figure out how to make a website with react for Pinkku
+- Install react
 
 # WRITINGS
 
