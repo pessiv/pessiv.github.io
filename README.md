@@ -1,6 +1,5 @@
 # TODO
 
-- Go read the react.dev reference
 
 # TODO NEXT
 
