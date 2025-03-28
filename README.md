@@ -1,7 +1,5 @@
 # TODO
 
-# TODO NEXT
-
 - Installation: Creating a react app
 - Installation: Build a react app from scratch
 - Installation: Add react to an existing project
@@ -17,6 +15,8 @@
 - Look at DigitalOcean
 - Look at Vercel
 - Go read the react.dev reference
+
+# TODO NEXT
 
 # WRITINGS
 
