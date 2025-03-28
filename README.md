@@ -1,7 +1,5 @@
 # TODO
 
-- Look at bootstrap
-- Look at figma
 - Look at DigitalOcean
 - Look at Vercel
 - Go read the react.dev reference
@@ -44,6 +42,11 @@
 - Pick Mantine components for that thing
 - Put them together
 - Build the thing
+- Think of a thing that you want to make
+- Build the rough html for it
+- Add Bootstrap
+- Watch a figma tutorial
+- Design a thing using figma
 
 # WRITINGS
 
