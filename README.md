@@ -18,12 +18,6 @@
 - Look at Next UI
 - Look at Mantine
 
-# TODO (VIDEO OF) EVENTUALLY
-
-- Figure out how to make a website with react for Pinkku
-- Install react
-- Look up cool elements made by other people
-
 # WRITINGS
 
 - <a href="./texts/001.md">Making of a website for Pinkku</a>
@@ -36,4 +30,6 @@
 
 # DONE
 
-
+- Figure out how to make a website with react for Pinkku
+- Install react
+- Look up cool elements made by other people
