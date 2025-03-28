@@ -1,6 +1,5 @@
 # TODO
 
-- Look at MUI
 - Look at Ant Design
 - Look at Chakra UI
 - Look at React Bootstrap
@@ -21,6 +20,10 @@
 - Install react using create vite with react template
 - Design the react site
 - Make the thing
+- Think of a thing that you want to make
+- Pick MUI components for that thing
+- Put them together
+- Build the thing
 
 # WRITINGS
 
