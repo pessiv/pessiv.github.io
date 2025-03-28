@@ -1,6 +1,5 @@
 # TODO
 
-- Look at Ant Design
 - Look at Chakra UI
 - Look at React Bootstrap
 - Look at Headless UI
@@ -22,6 +21,10 @@
 - Make the thing
 - Think of a thing that you want to make
 - Pick MUI components for that thing
+- Put them together
+- Build the thing
+- Think of a thing that you want to make
+- Pick Ant Design components for that thing
 - Put them together
 - Build the thing
 
