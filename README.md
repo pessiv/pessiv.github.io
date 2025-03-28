@@ -1,10 +1,5 @@
 # TODO
 
-- Look at Chakra UI
-- Look at React Bootstrap
-- Look at Headless UI
-- Look at Next UI
-- Look at Mantine
 - Look at bootstrap
 - Look at figma
 - Look at DigitalOcean
@@ -25,6 +20,28 @@
 - Build the thing
 - Think of a thing that you want to make
 - Pick Ant Design components for that thing
+- Put them together
+- Build the thing
+- Think of a thing that you want to make
+- Pick Chakra UI components for that thing
+- Put them together
+- Build the thing
+- Think of a thing that you want to make
+- Pick React Bootstrap components for that thing
+- Put them together
+- Build the thing
+- Think of a thing that you want to make
+- Pick Headless UI components for that thing
+- Look up Tailwind docs
+- Lokk up tailwind component libraries
+- Put them together
+- Build the thing
+- Think of a thing that you want to make
+- Pick HeroUI components for that thing
+- Put them together
+- Build the thing
+- Think of a thing that you want to make
+- Pick Mantine components for that thing
 - Put them together
 - Build the thing
 
