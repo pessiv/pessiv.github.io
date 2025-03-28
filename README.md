@@ -1,7 +1,5 @@
 # TODO
 
-- Look at DigitalOcean
-- Look at Vercel
 - Go read the react.dev reference
 
 # TODO NEXT
@@ -47,6 +45,10 @@
 - Add Bootstrap
 - Watch a figma tutorial
 - Design a thing using figma
+- Create a digitalocean account
+- Deploy something
+- Create a vercel account
+- Deploy something
 
 # WRITINGS
 
