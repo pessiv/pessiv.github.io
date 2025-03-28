@@ -49,6 +49,8 @@
 - Deploy something
 - Create a vercel account
 - Deploy something
+- Look up the default react hooks
+- Look up react hooks libraries
 
 # WRITINGS
 
