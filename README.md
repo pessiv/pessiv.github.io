@@ -1,8 +1,6 @@
 # TODO
 
-- Roughly design the site
 - Make the site
-- Look up hosting options for react
 
 # TODO NEXT
 
@@ -16,6 +14,10 @@
 - Look at Headless UI
 - Look at Next UI
 - Look at Mantine
+- Look at bootstrap
+- Look at figma
+- Look at DigitalOcean
+- Look at Vercel
 
 # WRITINGS
 
@@ -33,3 +35,5 @@
 - Install react
 - Look up cool elements made by other people
 - Look up a tutorial for making a react site
+- Roughly design the site
+- Look up hosting options for react
