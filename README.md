@@ -1,8 +1,5 @@
 # TODO
 
-- Installation: Creating a react app
-- Installation: Build a react app from scratch
-- Installation: Add react to an existing project
 - Look at MUI
 - Look at Ant Design
 - Look at Chakra UI
@@ -17,6 +14,13 @@
 - Go read the react.dev reference
 
 # TODO NEXT
+
+- Install react using create-next-app
+- Design the react site
+- Make the thing
+- Install react using create vite with react template
+- Design the react site
+- Make the thing
 
 # WRITINGS
 
@@ -34,3 +38,6 @@
 - Look up a tutorial for making a react site
 - Roughly design the site
 - Look up hosting options for react
+- Installation: Creating a react app
+- Installation: Build a react app from scratch
+- Installation: Add react to an existing project
