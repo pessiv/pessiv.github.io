@@ -1,3 +1,18 @@
+# Making vim transparent
+
+I have my personal waifu (Alyx from the half-life series) as my xfce4-terminal background
+and I want to see her while I write my really stupid shit and stuff. Neovim atleast is
+not transparent by default and you cannot really set up a background to it in general
+so that is the why in me making my neovim setup be transparent.
+
+- [X] duckduckgo how to make vim transparent
+
+The code that works on my neovim:
+
+```lua
+vim.cmd("hi Normal guibg=NONE ctermbg=NONE")
+```
+
 # Why I really like vim?
 
 The first thing that I experinced Vim with personally was the class in college where
@@ -27,7 +42,7 @@ things that I really want to see in my setup:
 
 ## TODO
 
-- [ ] make vim transparent
+- [X] make vim transparent
 - [ ] add javascript lsp
 - [ ] add javascript snippets
 - [ ] add c++ snippets
