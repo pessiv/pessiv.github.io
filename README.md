@@ -45,11 +45,11 @@ I will be watching in horror as we are slowly moving to technofeudalism
 
 ## Sources
 
-https://www.statista.com/statistics/748551/worldwide-households-with-computer/
-https://www.stallman.org/
-https://en.wikipedia.org/wiki/Universal_basic_income
-https://finance.yahoo.com/news/why-universal-basic-compute-solution-164257498.html
-https://nymag.com/intelligencer/2022/10/what-is-technofeudalism.html
+- https://www.statista.com/statistics/748551/worldwide-households-with-computer/
+- https://www.stallman.org/
+- https://en.wikipedia.org/wiki/Universal_basic_income
+- https://finance.yahoo.com/news/why-universal-basic-compute-solution-164257498.html
+- https://nymag.com/intelligencer/2022/10/what-is-technofeudalism.html
 
 ## Asterix notes
 
