@@ -33,7 +33,13 @@ opportunities are quickly disappearing maybe never to be seen again in any way s
 or form. People who are not even remotely having their basic needs met will not
 benefit from having UBC.
 
-I will be watching in horror as we are slowly moving to technofeudalism
+<hr>
+
+So while Artificial Intelligence solutions really seriously do have the potential to
+change the world for the better, the things that are very obviously priorized right 
+now are not only making peoples livelihoods disappear they are actively killing people
+too (for example in Palestine most of the big tech companies are testing solutions for
+making people dead and opressed among other things).
 
 ## Projects that I want to make
 
