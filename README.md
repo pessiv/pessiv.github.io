@@ -1,3 +1,45 @@
+# Why I really like vim?
+
+The first thing that I experinced Vim with personally was the class in college where
+I was first introduced to Linux. My teacher at the time recommended the whole class
+at once to use an editor that has a wide community of plugin support because it makes
+it easy to then use the thing to do some actual work. His personal favorite was atleast
+at the time Emacs and he atleast claimed to have modified his setup to the max, but he
+never showed that infront of the class.
+
+Just before that class I had discovered ThePrimeagen on the internet but I did not really
+focus on the fact that he used neovim or vim before I had a period of time in between of
+classes where my thoughts were that "oh man, fuck, shit. AI is going to destroy my
+whole entire life and I have basically no hope left of having a long term career" and
+right in the bottom of that hopeless pit I discovered that he was actually really funny
+and that inspired me to both learn the very basics of Rust and Vim at once because
+it was fun to go fast and just do stuff.
+
+Right now I have this thing with my social medias where every platform that I am on
+pushes to me that mentality of everyone and everybody is fucked and it really does
+get to me and gets everyone around me worried about me. I have decided that I am
+not going to use any of those platforms anymore ever again (unless I get paid to)
+because the real joy of the world is in vim and in programming.
+
+My current vim setup is blank right now because I deleted my old configuration so
+that I could actually do some really good UI design for myself. Below is some
+things that I really want to see in my setup:
+
+## TODO
+
+- [ ] make vim transparent
+- [ ] add javascript lsp
+- [ ] add javascript snippets
+- [ ] add c++ snippets
+- [ ] add c++ lsp
+- [ ] make file exploring open with a button
+- [ ] make a tab with a button
+- [ ] switch a tab with a button
+- [ ] remove a tab with a button
+
+All in all I just really like to be able to do things without feeling the fact that
+my world is about to end in every second of it.
+
 # Me and the world together potentially empowered by AI
 
 I think everyone should have the access to computing power that has in some level
@@ -62,7 +104,3 @@ making people dead and opressed among other things).
 Nothing is ever free because someone always ends up paying the price, but taxes of
 the people in the world and philantropists and hobbyists run alot of the internet
 for basically no profit even now still. It's basically free.
-
-## Date
-
-04/2025
