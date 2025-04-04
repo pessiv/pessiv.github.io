@@ -1,18 +1,3 @@
-# Making vim transparent
-
-I have my personal waifu (Alyx from the half-life series) as my xfce4-terminal background
-and I want to see her while I write my really stupid shit and stuff. Neovim atleast is
-not transparent by default and you cannot really set up a background to it in general
-so that is the why in me making my neovim setup be transparent.
-
-- [X] duckduckgo how to make vim transparent
-
-The code that works on my neovim:
-
-```lua
-vim.cmd("hi Normal guibg=NONE ctermbg=NONE")
-```
-
 # Why I really like vim?
 
 The first thing that I experinced Vim with personally was the class in college where
@@ -54,6 +39,46 @@ things that I really want to see in my setup:
 
 All in all I just really like to be able to do things without feeling the fact that
 my world is about to end in every second of it.
+
+## Making vim transparent
+
+I have my personal waifu (Alyx from the half-life series) as my xfce4-terminal background
+and I want to see her while I write my really stupid shit and stuff. Neovim atleast is
+not transparent by default and you cannot really set up a background to it in general
+so that is the why in me making my neovim setup be transparent.
+
+- [X] duckduckgo how to make vim transparent
+
+The code that works on my neovim:
+
+```lua
+vim.cmd("hi Normal guibg=NONE ctermbg=NONE")
+```
+
+## Installing javascript lsp to neovim
+
+Adding javascript support to neovim sounds like a nobrainer really to anyone who
+is a programmer in the modern day and wants to make something that people actually
+are willing to use. Pretty much the only factor in common with almost all of the
+devices out there is the fact that they have a browser that supports javascript
+so you can pretty much* write once and run everywhere. (do you remember when this
+exact same thing was said about java?)
+
+- [ ] run the following code
+
+```bash
+npm install -g typescript-language-server typescript vscode-langservers-extracted @tailwindcss/language-server
+```
+- [ ] install Packer to nvim
+- [ ] install the plugins in the tutorial that I follow
+- [ ] activate the lsp config
+- [ ] activate the snippet setup
+- [ ] activate the autocomplete setup
+- [ ] activate the prettier setup
+
+### Asterixes
+
+Many exceptions to the rule exists so dont be a big dummy :)
 
 # Me and the world together potentially empowered by AI
 
