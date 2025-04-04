@@ -64,11 +64,15 @@ devices out there is the fact that they have a browser that supports javascript
 so you can pretty much* write once and run everywhere. (do you remember when this
 exact same thing was said about java?)
 
-- [ ] run the following code
+- [X] run the following code
 
 ```bash
 npm install -g typescript-language-server typescript vscode-langservers-extracted @tailwindcss/language-server
 ```
+This did not run without problems because nixos is basically a containerized system with nothing except something as a global thing. At the same time I'm happy javascript is unable to
+execute at every level with my computer and I am also upset that with nixos I have to
+do something differently to make javascript lsp work. Fun times ahead.
+
 - [ ] install Packer to nvim
 - [ ] install the plugins in the tutorial that I follow
 - [ ] activate the lsp config
