@@ -38,3 +38,10 @@ cunt that it in actual objective reality is.
 $$
 \sum \pi
 $$
+
+To get the full support for LaTeX though you have to go to the github repo
+instead of the github pages though which is fine by me because this is not
+going to be a writing platform that alot of people care about the contents
+of. Rather this will forever just be me rambling about things that I care
+about and then in the end I will just read the actual notation with vim
+anyway so nobody cares.
