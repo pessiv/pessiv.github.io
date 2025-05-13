@@ -14,17 +14,6 @@ you get deep enough into any one of these two topics. This page will from now
 on be continued to paragraph by paragraph with text from me being really
 excited about something that I have seen or know.
 
-Initial concrete list of things that I would like to do here:
-
-- exploring the mathematical symbols supported by this github pages thing
-- mathematically comparing political ideologies
-- creating an algorithm for determining who I should vote for
-- going through the rust book
-- building a real thing in rust
-- making a real service with the old spring boot and typescript toolkit
-- exploring dart
-- exploring python
-
 Really the thing that I should start all of this actual doing something with is
 sharing how my current user experience is made because that will clear all of
 the doubts that not having my system may or may not bring to the table and all
@@ -38,3 +27,14 @@ my desktop environment although I mostly use the terminal for basiacally all
 of the important things. As of 13.05.2025 I do not have any custom software
 that would ruin your experience of following along with me in the writings
 of this thing, whatever this is (your guess is as good as mine).
+
+According to the documentation that github has available there is a really
+good support for mathematical expressions in the markdown world that this
+page completely exists in so there will not be a problem there. Very nice.
+My mathematics nerdouts will be very much accomodated for and that feels
+very nice because for this one thing microsoft does not behave like the
+cunt that it in actual objective reality is.
+
+$$
+\sum \pi
+$$
